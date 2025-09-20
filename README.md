@@ -30,6 +30,7 @@
 ## Array
 |  |
 | ------- |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1635-number-of-good-pairs](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1635-number-of-good-pairs) |
 | [2058-concatenation-of-array](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/2058-concatenation-of-array) |
 ## Hash Table
