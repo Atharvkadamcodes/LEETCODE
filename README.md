@@ -25,4 +25,9 @@
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0415-add-strings) |
+| [2058-concatenation-of-array](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/2058-concatenation-of-array) |
+## Array
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
