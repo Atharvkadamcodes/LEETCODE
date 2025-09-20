@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0415-add-strings) |
+| [1635-number-of-good-pairs](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1635-number-of-good-pairs) |
 ## Simulation
 |  |
 | ------- |
@@ -29,5 +30,14 @@
 ## Array
 |  |
 | ------- |
+| [1635-number-of-good-pairs](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1635-number-of-good-pairs) |
 | [2058-concatenation-of-array](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/2058-concatenation-of-array) |
+## Hash Table
+|  |
+| ------- |
+| [1635-number-of-good-pairs](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1635-number-of-good-pairs) |
+## Counting
+|  |
+| ------- |
+| [1635-number-of-good-pairs](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1635-number-of-good-pairs) |
 <!---LeetCode Topics End-->
