@@ -10,6 +10,7 @@
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0415-add-strings](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0415-add-strings) |
 | [0680-valid-palindrome-ii](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0680-valid-palindrome-ii) |
@@ -20,11 +21,13 @@
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0043-multiply-strings) |
 | [0415-add-strings](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0415-add-strings) |
 | [1635-number-of-good-pairs](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1635-number-of-good-pairs) |
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0043-multiply-strings) |
 | [0415-add-strings](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0415-add-strings) |
 | [2058-concatenation-of-array](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/2058-concatenation-of-array) |
 ## Array
