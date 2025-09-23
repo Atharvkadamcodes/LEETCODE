@@ -10,6 +10,7 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0415-add-strings](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0415-add-strings) |
@@ -23,6 +24,7 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0043-multiply-strings) |
 | [0415-add-strings](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0415-add-strings) |
 | [1635-number-of-good-pairs](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1635-number-of-good-pairs) |
@@ -42,6 +44,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0012-integer-to-roman) |
 | [1635-number-of-good-pairs](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1635-number-of-good-pairs) |
 ## Counting
 |  |
