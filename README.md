@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0043-multiply-strings](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0415-add-strings](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0415-add-strings) |
@@ -38,6 +39,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1635-number-of-good-pairs](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1635-number-of-good-pairs) |
 | [2058-concatenation-of-array](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/2058-concatenation-of-array) |
@@ -55,4 +57,8 @@
 | ------- |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2470-removing-stars-from-a-string](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/2470-removing-stars-from-a-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
