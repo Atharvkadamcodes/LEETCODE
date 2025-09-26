@@ -40,6 +40,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0014-longest-common-prefix) |
+| [0724-find-pivot-index](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0724-find-pivot-index) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1635-number-of-good-pairs](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1635-number-of-good-pairs) |
 | [2058-concatenation-of-array](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/2058-concatenation-of-array) |
@@ -61,4 +62,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0014-longest-common-prefix) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
