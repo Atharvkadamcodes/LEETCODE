@@ -5,6 +5,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0680-valid-palindrome-ii) |
 ## String
@@ -40,6 +41,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0724-find-pivot-index](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0724-find-pivot-index) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1635-number-of-good-pairs](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1635-number-of-good-pairs) |
