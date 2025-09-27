@@ -43,6 +43,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0217-contains-duplicate](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0724-find-pivot-index) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -52,6 +53,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0012-integer-to-roman) |
+| [0217-contains-duplicate](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0217-contains-duplicate) |
 | [1635-number-of-good-pairs](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1635-number-of-good-pairs) |
 ## Counting
 |  |
@@ -70,4 +72,8 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0724-find-pivot-index) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
