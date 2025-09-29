@@ -29,6 +29,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0043-multiply-strings) |
+| [0268-missing-number](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0415-add-strings) |
 | [1635-number-of-good-pairs](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1635-number-of-good-pairs) |
 ## Simulation
@@ -44,6 +45,7 @@
 | [0014-longest-common-prefix](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0724-find-pivot-index) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -54,6 +56,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0217-contains-duplicate](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0268-missing-number) |
 | [1635-number-of-good-pairs](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1635-number-of-good-pairs) |
 ## Counting
 |  |
@@ -76,4 +79,13 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
