@@ -45,6 +45,7 @@
 | [0001-two-sum](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0283-move-zeroes) |
@@ -90,4 +91,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0268-missing-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
