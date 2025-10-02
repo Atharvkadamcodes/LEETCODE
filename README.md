@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0680-valid-palindrome-ii](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0680-valid-palindrome-ii) |
 ## String
 |  |
@@ -50,6 +51,7 @@
 | [0217-contains-duplicate](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0414-third-maximum-number) |
 | [0724-find-pivot-index](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0724-find-pivot-index) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -62,6 +64,7 @@
 | [0012-integer-to-roman](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0217-contains-duplicate](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [1635-number-of-good-pairs](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1635-number-of-good-pairs) |
 ## Counting
 |  |
@@ -85,11 +88,13 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0414-third-maximum-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
