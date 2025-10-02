@@ -50,6 +50,7 @@
 | [0217-contains-duplicate](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0414-third-maximum-number) |
 | [0724-find-pivot-index](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0724-find-pivot-index) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1635-number-of-good-pairs](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1635-number-of-good-pairs) |
@@ -84,6 +85,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0414-third-maximum-number) |
 ## Binary Search
 |  |
 | ------- |
