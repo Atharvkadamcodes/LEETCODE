@@ -37,6 +37,7 @@
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
+| [1791-richest-customer-wealth](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1791-richest-customer-wealth) |
 ## Math
 |  |
 | ------- |
@@ -45,4 +46,8 @@
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
+## Matrix
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
