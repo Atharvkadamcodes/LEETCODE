@@ -45,6 +45,7 @@
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0067-add-binary) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 ## Sorting
 |  |
@@ -62,6 +63,15 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0067-add-binary) |
 | [0566-reshape-the-matrix](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0566-reshape-the-matrix) |
 | [0898-transpose-matrix](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0898-transpose-matrix) |
+## String
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
