@@ -11,7 +11,9 @@ class Solution {
                 }
             }
         }
-        sb.append(sb2);
+        for(int k = 0; k < sb2.length(); k++) {
+            sb.append(sb2.charAt(k));
+        }
         
         return sb.toString();
     }
