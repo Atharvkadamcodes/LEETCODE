@@ -57,6 +57,7 @@
 | [0067-add-binary](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1013-fibonacci-number) |
 ## Sorting
@@ -98,6 +99,7 @@
 | [0136-single-number](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0342-power-of-four) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -133,6 +135,7 @@
 | [0050-powx-n](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1013-fibonacci-number) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/2215-finding-3-digit-even-numbers) |
 ## Memoization
