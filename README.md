@@ -55,6 +55,7 @@
 | [0050-powx-n](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0326-power-of-three) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1013-fibonacci-number) |
 ## Sorting
@@ -128,6 +129,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
