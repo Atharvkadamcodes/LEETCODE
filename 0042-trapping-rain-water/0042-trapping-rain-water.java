@@ -1,7 +1,6 @@
 class Solution {
     public int trap(int[] height) {
-        int LMB[] = new int[height.length];
-        int RMB[] = new int [height.length];
+        
         
         if(height.length <= 2) {
             return 0;
@@ -35,24 +34,17 @@ class Solution {
             return 0;
         }
 
-        for(int i = 0; i < height.length; i++) {
-            int largestLB = Integer.MIN_VALUE;
-            for(int j = 0; j <= i; j++) {
-                if(largestLB < height[j]) {
-                    largestLB = height[j];
-                }
-            }
-            LMB[i] = largestLB;
+        int LMB[] = new int[height.length];
+        LMB[0] = height[0];
+        
+        for(int i = 1; i < height.length; i++) {
+            LMB[i] = Math.max(height[i], LMB[i - 1]);
         }
 
-        for(int i = height.length - 1; i >= 0; i--) {
-            int largestRB = Integer.MIN_VALUE;
-            for(int j = i; j < height.length; j++) {
-                if(largestRB < height[j]) {
-                    largestRB = height[j];
-                }
-            }
-            RMB[i] = largestRB;
+        int RMB[] = new int [height.length];
+        RMB[height.length - 1] = height[height.length - 1];
+        for(int i = height.length - 2; i >= 0; i--) {
+            RMB[i] = Math.max(height[i], RMB[i + 1]);
         }
 
             int result = 0;
