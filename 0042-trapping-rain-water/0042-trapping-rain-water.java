@@ -7,6 +7,22 @@ class Solution {
             return 0;
         }
 
+        boolean asc = true;
+        for(int i = 1; i < height.length; i++) {
+            if(height[i] < height[i - 1]) {
+                asc = false;
+                break;
+            }
+        }
+
+        boolean desc = true;
+        for(int i = 1; i < height.length; i++) {
+            if(height[i] > height[i - 1]) {
+                desc = false;
+                break;
+            }
+        }
+
         boolean same = true;
         for(int i = 1; i < height.length; i++) {
             if(height[i] != height[i - 1]) {
@@ -15,7 +31,7 @@ class Solution {
             }
         }
 
-        if(same) {
+        if(asc || desc ||same) {
             return 0;
         }
 
