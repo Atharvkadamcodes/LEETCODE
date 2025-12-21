@@ -2,34 +2,32 @@ class Solution {
     public void setZeroes(int[][] matrix) {
         int n = matrix.length;
         int m = matrix[0].length;
-        int iIdx[] = new int[n*m];
-        int jIdx[] = new int[n*m];
-        int index = 0;
+        int rowIdx[] = new int[n * m];
+        int colIdx[] = new int[n * m];
+        int idx = 0;
 
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < m; j++) {
+        for(int i = 0; i < matrix.length; i++) {
+            for(int j = 0; j < matrix[0].length; j++) {
                 if(matrix[i][j] == 0) {
-                    iIdx[index] = i;
-                    jIdx[index] = j;
-                    index++;
+                    rowIdx[idx] = i;
+                    colIdx[idx] = j;
+                    idx++;
                 }
             }
         }
-        
-        for (int k = 0; k < index; k++) {
-            int r = iIdx[k];
-            for (int j = 0; j < m; j++) {
-                matrix[r][j] = 0;
+
+        for(int i = 0; i < idx; i++) {
+            int k = rowIdx[i];
+            for(int j = 0; j < m; j++) {
+                matrix[k][j] = 0;
             }
         }
 
-    
-        for (int k = 0; k < index; k++) {
-            int c = jIdx[k];
-            for (int i = 0; i < n; i++) {
-                matrix[i][c] = 0;
+        for(int i = 0; i < idx; i++) {
+            int c = colIdx[i];
+            for(int j = 0; j < n; j++) {
+                matrix[j][c] = 0;
             }
         }
-
     }
 }
