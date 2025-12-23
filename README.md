@@ -84,6 +84,7 @@
 | [0088-merge-sorted-array](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0807-custom-sort-string](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0807-custom-sort-string) |
 | [0941-sort-array-by-parity](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0941-sort-array-by-parity) |
@@ -113,6 +114,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0067-add-binary](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0067-add-binary) |
 | [0179-largest-number](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0242-valid-anagram) |
 | [0807-custom-sort-string](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0807-custom-sort-string) |
 ## Bit Manipulation
 |  |
@@ -135,6 +137,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0807-custom-sort-string](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0807-custom-sort-string) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/2215-finding-3-digit-even-numbers) |
