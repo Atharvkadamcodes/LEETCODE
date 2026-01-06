@@ -13,12 +13,6 @@ class Solution {
             }
         }
 
-        // if(target > nums[start]) {
-        //     return start + 1;
-        // } else {
-        //     return start - 1;
-        // }
-
         return start;
     }
 }
