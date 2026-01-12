@@ -154,6 +154,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0461-hamming-distance) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Divide and Conquer
 |  |
 | ------- |
