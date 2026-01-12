@@ -152,6 +152,7 @@
 | [0191-number-of-1-bits](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0461-hamming-distance) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/2220-minimum-bit-flips-to-convert-number) |
@@ -212,6 +213,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0338-counting-bits](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0338-counting-bits) |
 | [1013-fibonacci-number](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
