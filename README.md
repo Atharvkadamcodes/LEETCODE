@@ -46,6 +46,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0056-merge-intervals) |
@@ -271,4 +272,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0014-longest-common-prefix) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
