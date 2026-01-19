@@ -74,6 +74,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0896-monotonic-array](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0896-monotonic-array) |
 | [0898-transpose-matrix](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0898-transpose-matrix) |
 | [0941-sort-array-by-parity](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0941-sort-array-by-parity) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
