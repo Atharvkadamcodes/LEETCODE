@@ -78,6 +78,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0896-monotonic-array](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0896-monotonic-array) |
 | [0898-transpose-matrix](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0898-transpose-matrix) |
+| [0912-sort-an-array](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0912-sort-an-array) |
 | [0941-sort-array-by-parity](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0941-sort-array-by-parity) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1470-shuffle-the-array) |
@@ -117,6 +118,7 @@
 | [0242-valid-anagram](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0807-custom-sort-string](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0807-custom-sort-string) |
+| [0912-sort-an-array](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0912-sort-an-array) |
 | [0941-sort-array-by-parity](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0941-sort-array-by-parity) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/2215-finding-3-digit-even-numbers) |
 ## Matrix
@@ -188,6 +190,7 @@
 | [0169-majority-element](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
+| [0912-sort-an-array](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -313,4 +316,24 @@
 |  |
 | ------- |
 | [2596-check-knight-tour-configuration](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/2596-check-knight-tour-configuration) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
