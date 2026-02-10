@@ -52,6 +52,7 @@
 | [0046-permutations](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0073-set-matrix-zeroes) |
@@ -189,6 +190,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
@@ -258,6 +260,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0131-palindrome-partitioning](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0338-counting-bits](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0338-counting-bits) |
 | [1013-fibonacci-number](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1013-fibonacci-number) |
