@@ -248,6 +248,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0941-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -361,4 +362,5 @@
 | [0206-reverse-linked-list](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1721-swapping-nodes-in-a-linked-list) |
 <!---LeetCode Topics End-->
