@@ -153,6 +153,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0076-minimum-window-substring) |
@@ -289,6 +290,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1910-remove-all-occurrences-of-a-substring) |
