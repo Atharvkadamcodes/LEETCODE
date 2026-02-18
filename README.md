@@ -300,6 +300,7 @@
 | [0020-valid-parentheses](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0071-simplify-path) |
+| [0155-min-stack](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0496-next-greater-element-i) |
@@ -390,6 +391,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
