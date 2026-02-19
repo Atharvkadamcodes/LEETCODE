@@ -165,6 +165,7 @@
 | [0179-largest-number](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0242-valid-anagram) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0318-maximum-product-of-word-lengths) |
+| [0387-first-unique-character-in-a-string](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0567-permutation-in-string) |
 | [0709-to-lower-case](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0709-to-lower-case) |
@@ -213,6 +214,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0567-permutation-in-string) |
@@ -315,6 +317,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 ## Sliding Window
@@ -400,4 +403,5 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
