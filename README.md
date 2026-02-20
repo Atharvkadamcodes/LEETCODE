@@ -87,6 +87,7 @@
 | [1470-shuffle-the-array](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1470-shuffle-the-array) |
 | [1677-matrix-diagonal-sum](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1791-richest-customer-wealth) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/2073-time-needed-to-buy-tickets) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/2215-finding-3-digit-even-numbers) |
@@ -148,6 +149,7 @@
 | [0566-reshape-the-matrix](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0566-reshape-the-matrix) |
 | [0898-transpose-matrix](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0898-transpose-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/2073-time-needed-to-buy-tickets) |
 | [2596-check-knight-tour-configuration](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/2596-check-knight-tour-configuration) |
 ## String
 |  |
@@ -404,4 +406,5 @@
 | [0225-implement-stack-using-queues](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
