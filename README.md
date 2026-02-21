@@ -63,6 +63,7 @@
 | [0090-subsets-ii](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0137-single-number-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0189-rotate-array) |
@@ -99,6 +100,7 @@
 | [0002-add-two-numbers](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0067-add-binary) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0326-power-of-three) |
@@ -304,6 +306,7 @@
 | [0020-valid-parentheses](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0071-simplify-path) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
