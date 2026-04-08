@@ -84,6 +84,7 @@
 | [0735-asteroid-collision](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0860-lemonade-change](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0860-lemonade-change) |
 | [0896-monotonic-array](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0896-monotonic-array) |
 | [0898-transpose-matrix](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0898-transpose-matrix) |
 | [0912-sort-an-array](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0912-sort-an-array) |
@@ -286,6 +287,7 @@
 | [0179-largest-number](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0646-maximum-length-of-pair-chain) |
+| [0860-lemonade-change](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0860-lemonade-change) |
 ## Dynamic Programming
 |  |
 | ------- |
