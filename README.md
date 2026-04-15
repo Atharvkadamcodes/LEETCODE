@@ -95,6 +95,7 @@
 | [1470-shuffle-the-array](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1470-shuffle-the-array) |
 | [1677-matrix-diagonal-sum](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1791-richest-customer-wealth) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/2073-time-needed-to-buy-tickets) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/2190-most-frequent-number-following-key-in-an-array) |
@@ -290,6 +291,7 @@
 | [0605-can-place-flowers](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0605-can-place-flowers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0646-maximum-length-of-pair-chain) |
 | [0860-lemonade-change](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0860-lemonade-change) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 ## Dynamic Programming
 |  |
 | ------- |
