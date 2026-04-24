@@ -49,6 +49,7 @@
 | [0039-combination-sum](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0051-n-queens) |
@@ -287,6 +288,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0455-assign-cookies) |
@@ -298,6 +300,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0055-jump-game) |
 | [0131-palindrome-partitioning](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0131-palindrome-partitioning) |
