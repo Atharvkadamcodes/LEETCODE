@@ -201,6 +201,7 @@
 | [0137-single-number-ii](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0222-count-complete-tree-nodes](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0287-find-the-duplicate-number) |
@@ -250,6 +251,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0074-search-a-2d-matrix) |
+| [0222-count-complete-tree-nodes](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
@@ -465,9 +467,11 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
