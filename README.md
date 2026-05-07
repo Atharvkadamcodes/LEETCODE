@@ -393,6 +393,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
@@ -470,6 +471,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
+| [0543-diameter-of-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -477,5 +479,6 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
+| [0543-diameter-of-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 <!---LeetCode Topics End-->
