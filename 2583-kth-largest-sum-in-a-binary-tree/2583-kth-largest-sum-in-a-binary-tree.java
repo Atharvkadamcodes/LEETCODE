@@ -15,43 +15,59 @@
  */
 import java.util.*;
 
+import java.util.*;
+
 class Solution {
     public long kthLargestLevelSum(TreeNode root, int k) {
-        
+
+        if (root == null) {
+            return 0;
+        }
+
         Queue<TreeNode> q = new LinkedList<>();
-        q.offer(root);
 
-        List<Long> list = new ArrayList<>();
+        q.add(root);
+        q.add(null);
 
-        while(!q.isEmpty()) {
+        int level = 0;
+        long sum = 0;
 
-            int size = q.size();
-            long sum = 0;
+        ArrayList<Long> kStore = new ArrayList<>();
 
-            for(int i = 0; i < size; i++) {
+        while (!q.isEmpty()) {
 
-                TreeNode node = q.poll();
+            TreeNode currNode = q.remove();
 
-                sum += node.val;
+            if (currNode == null) {
 
-                if(node.left != null) {
-                    q.offer(node.left);
+                kStore.add(sum);
+
+                sum = 0;
+
+                if (!q.isEmpty()) {
+                    q.add(null);
                 }
 
-                if(node.right != null) {
-                    q.offer(node.right);
+            } else {
+
+                sum += currNode.val;
+
+                if (currNode.left != null) {
+                    q.add(currNode.left);
+                }
+
+                if (currNode.right != null) {
+                    q.add(currNode.right);
                 }
             }
-
-            list.add(sum);
         }
 
-        if(list.size() < k) {
-            return -1;
-        }
+        Collections.sort(kStore);
 
-        Collections.sort(list, Collections.reverseOrder());
+        if(kStore.size() < k) return -1;
 
-        return list.get(k - 1);
+        long ans = kStore.get(kStore.size() - k);
+
+        return ans;
     }
 }
