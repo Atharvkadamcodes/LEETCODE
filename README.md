@@ -63,6 +63,7 @@
 | [0078-subsets](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0090-subsets-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -218,6 +219,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0191-number-of-1-bits) |
@@ -490,6 +492,7 @@
 | [0098-validate-binary-search-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
@@ -508,6 +511,7 @@
 | [0098-validate-binary-search-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
@@ -531,5 +535,6 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
