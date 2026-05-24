@@ -417,6 +417,7 @@
 | [0938-range-sum-of-bst](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0965-univalued-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
@@ -428,6 +429,7 @@
 | [0226-invert-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0965-univalued-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/2596-check-knight-tour-configuration) |
 ## Heap (Priority Queue)
@@ -514,6 +516,7 @@
 | [0938-range-sum-of-bst](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0965-univalued-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -537,6 +540,7 @@
 | [0938-range-sum-of-bst](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0965-univalued-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## String Matching
 |  |
