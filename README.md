@@ -412,6 +412,7 @@
 | [0226-invert-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0257-binary-tree-paths) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0572-subtree-of-another-tree) |
 | [0938-range-sum-of-bst](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0938-range-sum-of-bst) |
@@ -427,6 +428,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0226-invert-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0965-univalued-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0965-univalued-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -511,6 +513,7 @@
 | [0226-invert-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0257-binary-tree-paths) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0700-search-in-a-binary-search-tree) |
@@ -536,6 +539,7 @@
 | [0226-invert-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0257-binary-tree-paths) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0700-search-in-a-binary-search-tree) |
@@ -557,6 +561,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
