@@ -37,11 +37,11 @@ class BSTIterator {
     }
     
     public boolean hasNext() {
-        if(idx < list.size() - 1) {
-            return true;
+        if(idx >= list.size() - 1) {
+            return false;
         }
 
-        return false;
+        return true;
     }
 }
 
