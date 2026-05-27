@@ -225,6 +225,7 @@
 | [0191-number-of-1-bits](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0912-sort-an-array](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0912-sort-an-array) |
+| [1382-balance-a-binary-search-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -301,6 +302,7 @@
 | [0605-can-place-flowers](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0605-can-place-flowers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0646-maximum-length-of-pair-chain) |
 | [0860-lemonade-change](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0860-lemonade-change) |
+| [1382-balance-a-binary-search-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 ## Dynamic Programming
 |  |
@@ -419,6 +421,7 @@
 | [0938-range-sum-of-bst](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0965-univalued-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
@@ -524,6 +527,7 @@
 | [0938-range-sum-of-bst](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0965-univalued-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
@@ -553,6 +557,7 @@
 | [0938-range-sum-of-bst](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0965-univalued-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## String Matching
@@ -574,4 +579,5 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0938-range-sum-of-bst) |
+| [1382-balance-a-binary-search-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
