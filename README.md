@@ -415,6 +415,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0113-path-sum-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0226-invert-binary-tree) |
@@ -438,6 +439,7 @@
 | [0101-symmetric-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -478,6 +480,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0061-rotate-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0138-copy-list-with-random-pointer](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
@@ -521,6 +524,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0113-path-sum-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0173-binary-search-tree-iterator) |
@@ -555,6 +559,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0113-path-sum-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0173-binary-search-tree-iterator) |
