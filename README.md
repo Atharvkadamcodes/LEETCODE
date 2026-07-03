@@ -77,6 +77,7 @@
 | [0260-single-number-iii](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0318-maximum-product-of-word-lengths) |
+| [0435-non-overlapping-intervals](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
@@ -141,6 +142,7 @@
 | [0179-largest-number](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0242-valid-anagram) |
+| [0435-non-overlapping-intervals](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0646-maximum-length-of-pair-chain) |
@@ -316,6 +318,7 @@
 | [0045-jump-game-ii](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0179-largest-number) |
+| [0435-non-overlapping-intervals](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0605-can-place-flowers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0646-maximum-length-of-pair-chain) |
@@ -331,6 +334,7 @@
 | [0055-jump-game](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0055-jump-game) |
 | [0131-palindrome-partitioning](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0338-counting-bits](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0338-counting-bits) |
+| [0435-non-overlapping-intervals](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0646-maximum-length-of-pair-chain) |
 | [1013-fibonacci-number](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1013-fibonacci-number) |
 ## Recursion
