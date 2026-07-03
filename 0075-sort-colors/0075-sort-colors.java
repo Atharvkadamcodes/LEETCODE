@@ -1,16 +1,13 @@
 class Solution {
     public void sortColors(int[] nums) {
         for(int i = 0; i < nums.length - 1; i++) {
-            int smallest = i;
-            for(int j = i + 1; j < nums.length; j++) {
-                if(nums[smallest] > nums[j]){
-                    smallest = j;
+            for(int j = 0; j < nums.length - 1; j++) {
+                if(nums[j] > nums[j + 1]) {
+                    int temp = nums[j];
+                    nums[j] = nums[j + 1];
+                    nums[j + 1] = temp;
                 }
             }
-            int temp = nums[smallest];
-            nums[smallest] = nums[i];
-            nums[i] = temp;
         }
-        
     }
 }
