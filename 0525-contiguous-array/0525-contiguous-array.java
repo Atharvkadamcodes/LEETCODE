@@ -14,9 +14,7 @@ class Solution {
 
             if(!hm.containsKey(sum)) {
                 hm.put(sum, i);
-            }
-
-            if(hm.containsKey(sum)) {
+            } else {
                 int j = hm.get(sum);
                 maxSubArrayLen = Math.max(maxSubArrayLen, i - j);
             }
