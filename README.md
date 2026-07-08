@@ -67,6 +67,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0179-largest-number) |
@@ -199,6 +200,7 @@
 | [0071-simplify-path](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0131-palindrome-partitioning](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0205-isomorphic-strings) |
@@ -254,6 +256,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
@@ -340,6 +343,7 @@
 | [0053-maximum-subarray](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0055-jump-game) |
 | [0131-palindrome-partitioning](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0139-word-break) |
 | [0338-counting-bits](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0646-maximum-length-of-pair-chain) |
@@ -363,6 +367,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1013-fibonacci-number) |
 ## Enumeration
 |  |
@@ -421,6 +426,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0139-word-break) |
 ## Backtracking
 |  |
 | ------- |
