@@ -467,6 +467,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1971-find-if-path-exists-in-graph) |
 | [2596-check-knight-tour-configuration](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
@@ -482,6 +483,7 @@
 | [0965-univalued-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0965-univalued-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1971-find-if-path-exists-in-graph) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/2596-check-knight-tour-configuration) |
 ## Heap (Priority Queue)
@@ -659,4 +661,12 @@
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0703-kth-largest-element-in-a-stream) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
