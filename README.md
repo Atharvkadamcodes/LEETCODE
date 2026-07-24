@@ -349,6 +349,7 @@
 | [0338-counting-bits](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0646-maximum-length-of-pair-chain) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1013-fibonacci-number](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -465,6 +466,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0572-subtree-of-another-tree) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0797-all-paths-from-source-to-target) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0938-range-sum-of-bst) |
@@ -484,6 +486,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0797-all-paths-from-source-to-target) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0965-univalued-binary-tree) |
@@ -498,6 +501,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0912-sort-an-array](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -675,6 +679,11 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1971-find-if-path-exists-in-graph) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
