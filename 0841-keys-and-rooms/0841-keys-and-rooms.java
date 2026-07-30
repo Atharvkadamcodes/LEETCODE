@@ -30,7 +30,7 @@ class Solution {
         for(int i = 0; i < rooms.size(); i++) {
             List<Integer> room = rooms.get(i);
             for(int j = 0; j < room.size(); j++) {
-                Edge e = new Edge(0, room.get(j));
+                Edge e = new Edge(i, room.get(j));
                 graph[i].add(e);
             }
         }
