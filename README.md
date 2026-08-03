@@ -66,6 +66,7 @@
 | [0090-subsets-ii](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0139-word-break) |
@@ -348,6 +349,7 @@
 | [0053-maximum-subarray](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0139-word-break) |
 | [0338-counting-bits](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0338-counting-bits) |
