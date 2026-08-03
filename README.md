@@ -695,4 +695,12 @@
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
