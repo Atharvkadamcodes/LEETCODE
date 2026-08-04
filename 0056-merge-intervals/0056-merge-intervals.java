@@ -1,23 +1,41 @@
 class Solution {
+    class Node {
+        int start;
+        int end;
+
+        public Node(int s, int e) {
+            this.start = s;
+            this.end = e;
+        }
+    }
+
     public int[][] merge(int[][] intervals) {
-        Arrays.sort(intervals, (a, b) -> a[0] - b[0]);
+        Arrays.sort(intervals, (a, b) -> Integer.compare(a[0], b[0]));
 
-        int[][] result = new int[intervals.length][2];
-        int idx = 0;
+        ArrayList<Node> list = new ArrayList<>();
 
-        int[] last = intervals[0];
-        result[idx] = last;
-
-        for (int i = 1; i < intervals.length; i++) {
-            int[] current = intervals[i];
-            if (current[0] <= last[1]) {
-                last[1] = Math.max(last[1], current[1]);
+        int start = intervals[0][0];
+        int end = intervals[0][1];
+        for(int i = 1; i < intervals.length; i++) {
+            if(intervals[i][0] <= end) {
+                end = Math.max(end, intervals[i][1]);
             } else {
-                last = current;
-                result[++idx] = last;
+                list.add(new Node(start, end));
+                start = intervals[i][0];
+                end = intervals[i][1];
             }
         }
 
-        return Arrays.copyOf(result, idx + 1);
+        list.add(new Node(start, end));
+
+        int arr[][] = new int[list.size()][2];
+
+        for(int i = 0; i < list.size(); i++) {
+            Node node = list.get(i);
+            arr[i][0] = node.start;
+            arr[i][1] = node.end;
+        }
+
+        return arr;
     }
 }
