@@ -1,18 +1,24 @@
 class Solution {
-    public double myPow(double x, int n) {
-        if (n == 0) return 1;
-        if (x == 0) return 0;
-
-        double half = myPow(x, n / 2);
-
-        if (n % 2 == 0) {
-            return half * half;
-        } else {
-            if (n > 0) {
-                return half * half * x;
-            } else {
-                return half * half / x;
-            }
+    public double pow(double x, long N) {
+        if(N == 0) {
+            return 1;
         }
+
+        double half = pow(x, N / 2);
+        double fn = half * half;
+        if(N % 2 != 0) {
+            fn = x * half * half;
+        }
+        return fn;
+    }
+
+    public double myPow(double x, int n) {
+        long N = n;
+        if(n < 0) {
+            x = 1 / x;
+            N = -N;
+        }
+
+        return pow(x, N);
     }
 }
