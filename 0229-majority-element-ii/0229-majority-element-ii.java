@@ -1,26 +1,25 @@
 class Solution {
     public List<Integer> majorityElement(int[] nums) {
         HashMap<Integer, Integer> hm = new HashMap<>();
-        ArrayList<Integer> list = new ArrayList<>();
-        HashSet<Integer> set = new HashSet<>();
 
-        for(int num : nums) {
-            if (hm.containsKey(num)) {
-                int count = hm.get(num) + 1;
-                hm.put(num, count);
+        for(int i = 0; i < nums.length; i++) {
+            if(hm.containsKey(nums[i])) {
+                hm.put(nums[i], hm.get(nums[i]) + 1);
             } else {
-                hm.put(num, 1);
-            }
-
-            if (hm.get(num) > nums.length / 3) {
-                set.add(num);
+                hm.put(nums[i], 1);
             }
         }
-        
-        for (int num : set) {
-            list.add(num);
+
+        int n = nums.length / 3;
+
+        List<Integer> ans = new ArrayList<>();
+
+        for (int num : hm.keySet()) {
+            if (hm.get(num) > n) {
+                ans.add(num);
+            }
         }
 
-        return list;
+        return ans;
     }
 }
