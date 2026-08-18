@@ -1,9 +1,5 @@
 class Solution {
     public void rotate(int[] nums, int k) {
-        if(k == 0) {
-            return;
-        }
-
         k = k % nums.length;
 
         sort(nums, 0, nums.length - 1);
@@ -16,7 +12,6 @@ class Solution {
             int temp = nums[left];
             nums[left] = nums[right];
             nums[right] = temp;
-
             left++;
             right--;
         }
