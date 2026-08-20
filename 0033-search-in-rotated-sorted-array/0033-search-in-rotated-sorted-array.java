@@ -1,25 +1,50 @@
 class Solution {
     public int search(int[] nums, int target) {
-        int left = 0;
-        int right = nums.length - 1;
+        sort(nums, 0, nums.length - 1);
 
+        int idx = -1;
+        for(int i = 0; i < nums.length - 1; i++) {
+            if(nums[i + 1] > nums[i]) {
+                idx = i;
+            }
+        }
+
+        sort(nums, 0, idx);
+        sort(nums, idx + 1, nums.length - 1);
+
+        int sortedIndex = binary(nums, target);
+
+        if (sortedIndex == -1) {
+            return -1;
+        }
+
+        int rotationStart = nums.length - idx - 1;
+
+        return (sortedIndex + rotationStart) % nums.length;
+    }
+
+    public void sort(int[] nums, int left, int right) {
         while(left <= right) {
-            int mid = left + (right - left) / 2;
+            int temp = nums[left];
+            nums[left] = nums[right];
+            nums[right] = temp;
+
+            left++;
+            right--;
+        }
+    }
+
+    public int binary(int[] nums, int target) {
+        int start = 0;
+        int end = nums.length - 1;
+        while(start <= end) {
+            int mid = start + (end - start) / 2;
             if(nums[mid] == target) {
                 return mid;
-            }  
-            if(nums[mid] > nums[right]) {
-                if(nums[left] <= target && nums[mid] > target) {
-                    right = mid - 1;
-                } else {
-                    left = mid + 1;
-                }
+            } else if(target > nums[mid]) {
+                start = mid + 1;
             } else {
-                if(nums[right] >= target && nums[mid] < target) {
-                    left = mid + 1;
-                } else {
-                    right = mid - 1;
-                }
+                end = mid - 1;
             }
         }
 
