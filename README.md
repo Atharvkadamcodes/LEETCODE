@@ -73,6 +73,7 @@
 | [0137-single-number-ii](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0162-find-peak-element](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0189-rotate-array) |
@@ -297,6 +298,7 @@
 | [0035-search-insert-position](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0287-find-the-duplicate-number) |
