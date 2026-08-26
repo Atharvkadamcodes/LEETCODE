@@ -140,6 +140,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1013-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1903-largest-odd-number-in-string](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
 |  |
@@ -226,6 +227,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1108-defanging-an-ip-address) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
+| [1903-largest-odd-number-in-string](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Bit Manipulation
 |  |
@@ -354,6 +356,7 @@
 | [0860-lemonade-change](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0860-lemonade-change) |
 | [1382-balance-a-binary-search-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [1903-largest-odd-number-in-string](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
