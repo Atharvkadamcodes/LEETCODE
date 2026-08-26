@@ -223,6 +223,7 @@
 | [0567-permutation-in-string](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0567-permutation-in-string) |
 | [0709-to-lower-case](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0709-to-lower-case) |
 | [0807-custom-sort-string](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0807-custom-sort-string) |
+| [1021-remove-outermost-parentheses](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1108-defanging-an-ip-address) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -414,6 +415,7 @@
 | [0735-asteroid-collision](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0739-daily-temperatures) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1021-remove-outermost-parentheses](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
 |  |
@@ -723,4 +725,8 @@
 | ------- |
 | [0169-majority-element](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0229-majority-element-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
