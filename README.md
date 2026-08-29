@@ -223,6 +223,7 @@
 | [0443-string-compression](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0567-permutation-in-string) |
 | [0709-to-lower-case](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0709-to-lower-case) |
+| [0796-rotate-string](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0796-rotate-string) |
 | [0807-custom-sort-string](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0807-custom-sort-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1108-defanging-an-ip-address) |
@@ -671,6 +672,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0572-subtree-of-another-tree) |
+| [0796-rotate-string](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0796-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
