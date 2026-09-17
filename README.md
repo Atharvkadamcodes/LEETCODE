@@ -228,6 +228,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1108-defanging-an-ip-address) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Bit Manipulation
@@ -289,6 +290,7 @@
 | [0567-permutation-in-string](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0567-permutation-in-string) |
 | [0807-custom-sort-string](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0807-custom-sort-string) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/2215-finding-3-digit-even-numbers) |
@@ -443,6 +445,7 @@
 | [0076-minimum-window-substring](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0567-permutation-in-string) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Prefix Sum
 |  |
 | ------- |
