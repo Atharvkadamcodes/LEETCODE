@@ -1,30 +1,40 @@
 class Solution {
     public int myAtoi(String s) {
+        s = s.trim();
+
+        if (s.length() == 0) {
+            return 0;
+        }
+
+        StringBuilder sb = new StringBuilder();
+        boolean isNegative = false;
+        
         int i = 0;
-        int n = s.length();
-        int sign = 1;
-        long result = 0;
 
-        while (i < n && s.charAt(i) == ' ') {
-            i++;
+        if (s.charAt(0) == '-') {
+            isNegative = true;
+            i = 1;
+        } 
+        else if (s.charAt(0) == '+') {
+            i = 1;
         }
 
-        if (i < n && (s.charAt(i) == '+' || s.charAt(i) == '-')) {
-            sign = (s.charAt(i) == '-') ? -1 : 1;
-            i++;
+        int num = 0;
+
+        for(; i < s.length(); i++) {
+            if(!Character.isDigit(s.charAt(i))) {
+                break;
+            }
+
+            int digit = (s.charAt(i) - '0');
+
+            if(num > (Integer.MAX_VALUE - digit) / 10) {
+                return isNegative ? Integer.MIN_VALUE : Integer.MAX_VALUE;
+            }
+
+            num = num * 10 + digit;
         }
 
-        while (i < n && Character.isDigit(s.charAt(i))) {
-            result = result * 10 + (s.charAt(i) - '0');
-
-            if (sign * result > Integer.MAX_VALUE)
-                return Integer.MAX_VALUE;
-            if (sign * result < Integer.MIN_VALUE)
-                return Integer.MIN_VALUE;
-
-            i++;
-        }
-
-        return (int) (sign * result);
+        return isNegative ? -num : num;
     }
 }
