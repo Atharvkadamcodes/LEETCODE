@@ -6,7 +6,6 @@ class Solution {
             return 0;
         }
 
-        StringBuilder sb = new StringBuilder();
         boolean isNegative = false;
         
         int i = 0;
