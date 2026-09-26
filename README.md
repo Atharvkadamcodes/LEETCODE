@@ -234,6 +234,7 @@
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -254,6 +255,7 @@
 | [0371-sum-of-two-integers](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0371-sum-of-two-integers) |
 | [0461-hamming-distance](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0461-hamming-distance) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -482,6 +484,7 @@
 | [0131-palindrome-partitioning](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0797-all-paths-from-source-to-target](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0797-all-paths-from-source-to-target) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Depth-First Search
 |  |
 | ------- |
