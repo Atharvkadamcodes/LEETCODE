@@ -1,27 +1,23 @@
 class Solution {
-    ArrayList<List<Integer>> outer = new ArrayList<>();
-
-    public void subset(List<Integer> nums, List<Integer> ans, int i) {
-        //base case
-        if(i == nums.size()) {
-            outer.add(new ArrayList<>(ans));
+    public List<List<Integer>> subsets(int[] nums) {
+        List<List<Integer>> list = new ArrayList<>();
+        StringBuilder sb = new StringBuilder();
+        ArrayList<Integer> inner = new ArrayList<>();
+        helper(nums, list, inner, 0);
+        return list;
+    }
+    
+    public void helper(int[] nums, List<List<Integer>> list, ArrayList<Integer> inner, int idx) {
+        if(idx == nums.length) {
+            list.add(new ArrayList(inner));
             return;
         }
+        
+        inner.add(nums[idx]);
+        helper(nums, list, inner, idx + 1);
 
-        //recursion
-        ans.add(nums.get(i));
-        subset(nums, ans, i + 1);
-
-        ans.remove(ans.size() - 1);
-
-        subset(nums, ans, i + 1);
-    }
-
-    public List<List<Integer>> subsets(int[] nums) {
-        List<Integer> list = new ArrayList<>();
-        for (int num : nums) list.add(num);
-
-        subset(list, new ArrayList<>(), 0);
-        return outer;
+        inner.remove(inner.size() - 1);
+        
+        helper(nums, list, inner, idx + 1);
     }
 }
