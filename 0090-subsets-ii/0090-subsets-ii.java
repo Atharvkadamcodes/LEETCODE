@@ -1,33 +1,24 @@
 class Solution {
-    ArrayList<List<Integer>> outer = new ArrayList<>();
+    public List<List<Integer>> subsetsWithDup(int[] nums) {
+        Arrays.sort(nums);
+        List<List<Integer>> outer = new ArrayList<>();
+        ArrayList<Integer> inner = new ArrayList<>();
+        helper(nums, outer, inner, 0);
+        return outer;
+    }
 
-    public void subset2(ArrayList<Integer> list, int i, ArrayList<Integer> ans) {
-        //base case
-        if(i == list.size()) {
-            if(!outer.contains(ans)) {
-                outer.add(new ArrayList<>(ans));
+    public void helper(int[] nums, List<List<Integer>> outer, ArrayList<Integer> inner, int idx) {
+        if(idx == nums.length) {
+            if(!outer.contains(inner)) {
+                outer.add(new ArrayList<>(inner));
             }
             return;
         }
 
-        //recurrsion
-        ans.add(list.get(i));
-        subset2(list, i + 1, ans);
+        inner.add(nums[idx]);
+        helper(nums, outer, inner, idx + 1);
+        inner.remove(inner.size() - 1);
 
-        //backtracking
-        ans.remove(ans.size() - 1);
-        subset2(list, i + 1, ans);
-        
-    }
-
-    public List<List<Integer>> subsetsWithDup(int[] nums) {
-        ArrayList<Integer> list = new ArrayList<>();
-        Arrays.sort(nums);
-        for(int num : nums) {
-            list.add(num);
-        }
-
-        subset2(list, 0, new ArrayList<>());
-        return outer;
+        helper(nums, outer, inner, idx + 1);
     }
 }
