@@ -1,35 +1,28 @@
 class Solution {
+    public List<List<Integer>> permute(int[] nums) {
+        ArrayList<Integer> list = new ArrayList<>();
+        for(int i = 0; i < nums.length; i++) {
+            list.add(nums[i]);
+        }
 
-    ArrayList<List<Integer>> outer = new ArrayList<>();
+        List<List<Integer>> outer = new ArrayList<>();
+        ArrayList<Integer> inner = new ArrayList<>();
+        helper(list, outer, inner, nums.length);
+        return outer;
+    }
 
-    public void permutation(List<Integer> nums, List<Integer> ans) {
-
-        // base case
-        if (nums.size() == 0) {
-            outer.add(new ArrayList<>(ans));
+    public void helper(ArrayList<Integer> list, List<List<Integer>> outer, ArrayList<Integer> inner, int len) {
+        if(inner.size() == len) {
+            outer.add(new ArrayList<>(inner));
             return;
         }
 
-        // recursion
-        for (int i = 0; i < nums.size(); i++) {
-            int curr = nums.get(i);
-
-            List<Integer> newNums = new ArrayList<>(nums);
-            newNums.remove(i);
-
-            ans.add(curr);
-            permutation(newNums, ans);
-            ans.remove(ans.size() - 1);
+        for(int i = 0; i < list.size(); i++) {
+            int val = list.remove(i);
+            inner.add(val);
+            helper(list, outer, inner, len);
+            inner.remove(inner.size() - 1);
+            list.add(i, val);
         }
-    }
-
-    public List<List<Integer>> permute(int[] nums) {
-        outer.clear();
-
-        List<Integer> list = new ArrayList<>();
-        for (int num : nums) list.add(num);
-
-        permutation(list, new ArrayList<>());
-        return outer;
     }
 }
