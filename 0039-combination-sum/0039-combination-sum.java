@@ -1,31 +1,23 @@
 class Solution {
-    ArrayList<List<Integer>> outer = new ArrayList<>();
+    public List<List<Integer>> combinationSum(int[] candidates, int target) {
+        List<List<Integer>> outer = new ArrayList<>();
+        ArrayList<Integer> inner = new ArrayList<>();
+        helper(candidates, target, outer, inner, 0, 0);
+        return outer;
+    }
 
-    public void sum(List<Integer> candidates,List<Integer> ans, int target, int sum, int i) {
-        //base case
+    public void helper(int[] candidates, int target, List<List<Integer>> outer, ArrayList<Integer> inner, int idx, int sum) {
         if(sum == target) {
-
-            outer.add(new ArrayList<>(ans));
+            outer.add(new ArrayList<>(inner));
             return;
-        } else if(sum > target || i == candidates.size()) {
+        } else if(sum > target || idx == candidates.length) {
             return;
         }
 
-        //recursion
-        ans.add(candidates.get(i));
-        sum(candidates, ans, target, sum + candidates.get(i), i);
+        inner.add(candidates[idx]);
+        helper(candidates, target, outer, inner, idx, sum + candidates[idx]);
+        inner.remove(inner.size() - 1);
 
-        //backtracking
-        ans.remove(ans.size() - 1);
-
-        sum(candidates, ans, target, sum, i + 1);
-    }
-    public List<List<Integer>> combinationSum(int[] candidates, int target) {
-        List<Integer> list = new ArrayList<>();
-        for (int candidate : candidates) list.add(candidate);
-
-        sum(list, new ArrayList<>(), target, 0, 0);
-
-        return outer;
+        helper(candidates, target, outer, inner, idx + 1, sum);
     }
 }
