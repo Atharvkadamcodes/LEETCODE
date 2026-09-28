@@ -1,34 +1,41 @@
 class Solution {
-    List<List<String>> outer = new ArrayList<>();
-
-    public boolean isPalindrome(String s, int left, int right) {
-        while(left < right) {
-            if(s.charAt(left) != s.charAt(right)) return false;
-            left++;
-            right--;
-        }
-        return true;
+    public List<List<String>> partition(String s) {
+        List<List<String>> outer = new ArrayList<>();
+        ArrayList<String> list = new ArrayList<>();
+        helper(s, outer, list, 0);
+        return outer;
     }
 
-    public void palindrome(String s, List<String> ans, int start) {
-        //base case
-        if(start == s.length()) {
-            outer.add(new ArrayList<>(ans));
+    public void helper(String s, List<List<String>> outer, ArrayList<String> list, int idx) {
+        if(idx == s.length()) {
+            outer.add(new ArrayList(list));
             return;
         }
 
-        //recursion
+        for(int i = idx; i < s.length(); i++) {
+            String str = s.substring(idx, i + 1);
 
-        for(int i = start; i < s.length(); i++) {
-            if(isPalindrome(s, start, i)) {
-                ans.add(s.substring(start, i + 1));
-                palindrome(s, ans, i + 1);
-                ans.remove(ans.size() - 1);
+            if(isPalindrome(str)) {
+                list.add(str);
+                helper(s, outer, list, i + 1);
+                list.remove(list.size() - 1);
             }
         }
     }
-    public List<List<String>> partition(String s) {
-        palindrome(s, new ArrayList<>(), 0);
-        return outer;
+
+    public boolean isPalindrome(String str) {
+        int left = 0;
+        int right = str.length() - 1;
+
+        while (left < right) {
+            if (str.charAt(left) != str.charAt(right)) {
+                return false;
+            }
+
+            left++;
+            right--;
+        }
+
+        return true;
     }
 }
