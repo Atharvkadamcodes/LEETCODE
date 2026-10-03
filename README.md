@@ -353,6 +353,7 @@
 | [0941-sort-array-by-parity](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0941-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Greedy
 |  |
@@ -594,6 +595,7 @@
 | [0328-odd-even-linked-list](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Design
 |  |
 | ------- |
