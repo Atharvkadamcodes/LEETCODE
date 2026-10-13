@@ -111,6 +111,7 @@
 | [1046-last-stone-weight](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1046-last-stone-weight) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1470-shuffle-the-array) |
 | [1677-matrix-diagonal-sum](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1791-richest-customer-wealth) |
@@ -195,6 +196,7 @@
 | [0566-reshape-the-matrix](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0566-reshape-the-matrix) |
 | [0735-asteroid-collision](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0735-asteroid-collision) |
 | [0898-transpose-matrix](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0898-transpose-matrix) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1441-build-an-array-with-stack-operations) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -437,6 +439,7 @@
 | [0739-daily-temperatures](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0739-daily-temperatures) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1441-build-an-array-with-stack-operations) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
 |  |
