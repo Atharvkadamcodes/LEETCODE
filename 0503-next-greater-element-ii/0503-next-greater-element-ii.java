@@ -11,7 +11,7 @@ class Solution {
                 st.pop();
             }
 
-            if(!st.isEmpty()) {
+            if(i < nums.length && !st.isEmpty()) {
                 ans[idx] = st.peek();
             }
 
