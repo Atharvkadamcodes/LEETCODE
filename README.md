@@ -89,6 +89,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
@@ -435,6 +436,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0739-daily-temperatures) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -446,6 +448,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0739-daily-temperatures) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Counting
