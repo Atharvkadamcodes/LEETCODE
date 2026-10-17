@@ -120,6 +120,7 @@
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/2073-time-needed-to-buy-tickets) |
+| [2104-sum-of-subarray-ranges](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/2190-most-frequent-number-following-key-in-an-array) |
@@ -446,6 +447,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1441-build-an-array-with-stack-operations) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2104-sum-of-subarray-ranges](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -455,6 +457,7 @@
 | [0739-daily-temperatures](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [2104-sum-of-subarray-ranges](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/2104-sum-of-subarray-ranges) |
 ## Counting
 |  |
 | ------- |
