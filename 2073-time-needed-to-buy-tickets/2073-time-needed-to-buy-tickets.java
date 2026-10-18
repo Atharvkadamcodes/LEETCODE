@@ -1,5 +1,3 @@
-import java.util.*;
-
 class Solution {
     public int timeRequiredToBuy(int[] tickets, int k) {
         Queue<int[]> q = new ArrayDeque<>();
@@ -8,22 +6,22 @@ class Solution {
             q.add(new int[]{tickets[i], i});
         }
 
-        int time = 0;
+        int countTime = 0;
 
-        while (!q.isEmpty()) {
+        while(!q.isEmpty()) {
             int[] person = q.poll();
             person[0]--;
-            time++;
+            countTime++;
 
-            if (person[1] == k && person[0] == 0) {
-                return time;
+            if(person[1] == k && person[0] == 0) {
+                return countTime;
             }
 
-            if (person[0] > 0) {
+            if(person[0] > 0) {
                 q.add(person);
             }
         }
 
-        return time;
+        return countTime;
     }
 }
