@@ -95,6 +95,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0566-reshape-the-matrix) |
 | [0605-can-place-flowers](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0605-can-place-flowers) |
+| [0622-design-circular-queue](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0646-maximum-length-of-pair-chain) |
 | [0704-binary-search](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0704-binary-search) |
@@ -606,6 +607,7 @@
 | [0234-palindrome-linked-list](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0328-odd-even-linked-list) |
+| [0622-design-circular-queue](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -617,6 +619,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0622-design-circular-queue) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Queue
 |  |
@@ -625,6 +628,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
+| [0622-design-circular-queue](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0622-design-circular-queue) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/2073-time-needed-to-buy-tickets) |
 ## Monotonic Queue
 |  |
