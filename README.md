@@ -624,6 +624,7 @@
 | [0622-design-circular-queue](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0641-design-circular-deque) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0933-number-of-recent-calls](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
@@ -633,6 +634,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0641-design-circular-deque) |
+| [0933-number-of-recent-calls](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0933-number-of-recent-calls) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/2073-time-needed-to-buy-tickets) |
 ## Monotonic Queue
 |  |
@@ -746,6 +748,7 @@
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0933-number-of-recent-calls](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0933-number-of-recent-calls) |
 ## Union-Find
 |  |
 | ------- |
