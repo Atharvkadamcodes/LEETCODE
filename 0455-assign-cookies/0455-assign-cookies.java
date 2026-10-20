@@ -7,9 +7,10 @@ class Solution {
         
         for(int i = 0; i < g.length; i++) {
             for(int j = 0; j < s.length; j++) {
-                if(s[j] >= g[i] && slot[i] == 0) {
+                if(s[j] >= g[i] && slot[j] == 0) {
                     count++;
                     slot[j] = 1;
+                    break;
                 }
             }
         }
