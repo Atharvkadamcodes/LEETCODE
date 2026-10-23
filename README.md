@@ -793,4 +793,8 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0141-linked-list-cycle) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0646-maximum-length-of-pair-chain) |
 <!---LeetCode Topics End-->
