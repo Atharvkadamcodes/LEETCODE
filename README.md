@@ -793,8 +793,13 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0646-maximum-length-of-pair-chain) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
