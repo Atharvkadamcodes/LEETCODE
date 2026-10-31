@@ -388,6 +388,7 @@
 | [0055-jump-game](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0139-word-break) |
 | [0338-counting-bits](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0338-counting-bits) |
@@ -517,6 +518,7 @@
 | [0110-balanced-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0226-invert-binary-tree) |
@@ -653,6 +655,7 @@
 | [0110-balanced-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0173-binary-search-tree-iterator) |
@@ -690,6 +693,7 @@
 | [0110-balanced-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0173-binary-search-tree-iterator) |
@@ -805,5 +809,6 @@
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
