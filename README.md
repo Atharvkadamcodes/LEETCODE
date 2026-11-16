@@ -400,6 +400,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0907-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1013-fibonacci-number) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Recursion
 |  |
 | ------- |
@@ -540,6 +541,7 @@
 | [0938-range-sum-of-bst](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0965-univalued-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1971-find-if-path-exists-in-graph) |
@@ -684,6 +686,7 @@
 | [0965-univalued-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0965-univalued-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -724,6 +727,7 @@
 | [0965-univalued-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0965-univalued-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -753,6 +757,7 @@
 | [0703-kth-largest-element-in-a-stream](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0938-range-sum-of-bst](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 ## Iterator
 |  |
@@ -821,4 +826,5 @@
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Atharvkadamcodes/LEETCODE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 <!---LeetCode Topics End-->
