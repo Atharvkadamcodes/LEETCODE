@@ -16,54 +16,59 @@
 class Solution {
     public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
         List<List<Integer>> outer = new ArrayList<>();
+        ArrayList<Integer> inner = new ArrayList<>();
 
-        if(root == null) {
+        if (root == null) {
             return outer;
         }
 
+        int isRtoL = 0;
         Queue<TreeNode> q = new LinkedList<>();
         q.add(root);
         q.add(null);
 
-        ArrayList<Integer> inner = new ArrayList<>();
-        boolean leftToRight = true;
-
-        while(!q.isEmpty()) {
+        while (!q.isEmpty()) {
             TreeNode curr = q.poll();
 
-            if(curr == null) {
-                if(q.isEmpty()) {
+            if (curr == null) {
+                if (q.isEmpty()) {
+                    if (isRtoL % 2 != 0) {
+                        Collections.reverse(inner);
+                    }
+                    outer.add(new ArrayList<>(inner));
                     break;
                 }
-                if(!leftToRight) {
+
+                if (isRtoL % 2 != 0) {
                     Collections.reverse(inner);
                 }
-                
+
                 outer.add(new ArrayList<>(inner));
                 inner.clear();
+                isRtoL++;
 
-                leftToRight = !leftToRight;
                 q.add(null);
+
             } else {
                 inner.add(curr.val);
 
-                if(curr.left != null) {
+                if (curr.left != null) {
                     q.add(curr.left);
                 }
 
-                if(curr.right != null) {
+                if (curr.right != null) {
                     q.add(curr.right);
                 }
             }
         }
 
-        if(!inner.isEmpty()) {
-            if(!leftToRight) {
-                Collections.reverse(inner);
-            }
+        // if (!inner.isEmpty()) {
+        //     if (isRtoL % 2 != 0) {
+        //         Collections.reverse(inner);
+        //     }
 
-            outer.add(new ArrayList<>(inner));
-        }
+        //     outer.add(new ArrayList<>(inner));
+        // }
 
         return outer;
     }
