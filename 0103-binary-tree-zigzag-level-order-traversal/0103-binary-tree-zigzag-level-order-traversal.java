@@ -62,14 +62,6 @@ class Solution {
             }
         }
 
-        // if (!inner.isEmpty()) {
-        //     if (isRtoL % 2 != 0) {
-        //         Collections.reverse(inner);
-        //     }
-
-        //     outer.add(new ArrayList<>(inner));
-        // }
-
         return outer;
     }
 }
